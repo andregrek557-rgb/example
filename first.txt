@@ -1,2 +1,3 @@
 Добавили файл для примера
 Add second line
+fetch test 2
